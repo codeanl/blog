@@ -3,7 +3,7 @@ package main
 import (
 	"blog/internal"
 	"blog/internal/global"
-	"blog/middleware"
+	"blog/internal/middleware"
 	"log"
 	"strings"
 
